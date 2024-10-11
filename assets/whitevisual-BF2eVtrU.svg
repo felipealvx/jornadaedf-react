@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1043 435" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1360,-371)">
+        <g id="PROTOTYPE" transform="matrix(0.869167,0,0,0.3625,1360,371)">
+            <rect x="0" y="0" width="1200" height="1200" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="1200" height="1200"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="IDENTIDADE" transform="matrix(2.09315,0,0,5.01874,-332.81,-2347.36)">
+                    <g id="_1--JORNADA" serif:id="1ª JORNADA">
+                        <g id="_1" serif:id="1">
+                            <g transform="matrix(0.219606,0,0,0.219606,135.028,371.628)">
+                                <text x="354px" y="600px" style="font-family:'HyrboBold', 'Hyrbo';font-weight:700;font-size:342.816px;fill:white;">a</text>
+                            </g>
+                            <g transform="matrix(0.435889,0,0,0.435889,109.534,283.986)">
+                                <text x="107px" y="730px" style="font-family:'HyrboBold', 'Hyrbo';font-weight:700;font-size:460.695px;fill:white;">1</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(0.531238,0,0,0.531238,84.2133,281.256)">
+                            <text x="354px" y="600px" style="font-family:'Zuume-Bold', 'Zuume';font-weight:700;font-size:342.816px;fill:white;">JORNAD<tspan x="1094.48px " y="600px ">A</tspan></text>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.192775,0,0,0.192775,84.7439,554.601)">
+                        <text x="354px" y="600px" style="font-family:'Kiona-Regular', 'Kiona';font-size:342.816px;fill:white;">E<tspan x="556.947px 780.806px 1015.29px 1248.41px 1478.1px 1711.21px 1940.9px " y="600px 600px 600px 600px 600px 600px 600px ">DUCAÇÃO</tspan> F<tspan x="2515.8px " y="600px ">Í</tspan>SI<tspan x="2904.9px 3138.01px " y="600px 600px ">CA</tspan></text>
+                    </g>
+                    <g transform="matrix(0.0743077,0,0,0.0743077,464.987,659.115)">
+                        <text x="354px" y="600px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:342.816px;fill:white;">SAÚDE</text>
+                        <text x="1649.27px" y="600px" style="font-family:'Helvetica-Light', 'Helvetica Light', sans-serif;font-size:342.816px;fill:white;">&amp;</text>
+                        <text x="1973.17px" y="600px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:342.816px;fill:white;">ESPORTE</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
