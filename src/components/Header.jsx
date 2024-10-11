@@ -12,7 +12,7 @@ function Header () {
         <div>
           <div className="img w-20">
             <img className="w-full h-full"
-            src="../../src/assets/whitevisual.svg" alt="" />
+            src="\src\assets\purplevisual.svg" alt="" />
           </div>
         </div>
       </div>

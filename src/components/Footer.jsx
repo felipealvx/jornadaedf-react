@@ -9,11 +9,11 @@ function Footer () {
     justify-between
     ">
       <img className="h-12"
-       src="../src/assets/footerimgs/Urca-icone-esquerda.png" alt="" />
+       src="/src/assets/footerimgs/Urca-icone-esquerda.png" alt="" />
       <img className="h-12" 
-      src="../src/assets/footerimgs/CENTRO-ACADEMICO-SERGIO-JUNIOR.png" alt="" />
+      src="/src/assets/footerimgs/CENTRO-ACADEMICO-SERGIO-JUNIOR.png" alt="" />
       <img className="h-8" 
-      src="../src/assets/purplevisual.svg" alt="" />
+      src="/src/assets/purplevisual.svg" alt="" />
     </footer>
   )
 }
