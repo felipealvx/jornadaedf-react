@@ -631,11 +631,11 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
       flex\r
       items-center\r
       justify-center\r
-      `,children:R.jsx("div",{children:R.jsx("div",{className:"img w-20",children:R.jsx("img",{className:"w-full h-full",src:"../../src/assets/whitevisual.svg",alt:""})})})})}function N1(){return R.jsxs("footer",{className:`\r
+      `,children:R.jsx("div",{children:R.jsx("div",{className:"img w-20",children:R.jsx("img",{className:"w-full h-full",src:"\\src\\assets\\purplevisual.svg",alt:""})})})})}function N1(){return R.jsxs("footer",{className:`\r
     px-10\r
     py-5\r
     bg-white\r
     flex\r
     items-center\r
     justify-between\r
-    `,children:[R.jsx("img",{className:"h-12",src:"../src/assets/footerimgs/Urca-icone-esquerda.png",alt:""}),R.jsx("img",{className:"h-12",src:"../src/assets/footerimgs/CENTRO-ACADEMICO-SERGIO-JUNIOR.png",alt:""}),R.jsx("img",{className:"h-8",src:"../src/assets/purplevisual.svg",alt:""})]})}function O1(){return R.jsxs("div",{className:"w-full h-screen",children:[R.jsx(P1,{}),R.jsx(_1,{}),R.jsx(N1,{})]})}od(document.getElementById("root")).render(R.jsx(Ql.StrictMode,{children:R.jsx(O1,{})}));
+    `,children:[R.jsx("img",{className:"h-12",src:"/src/assets/footerimgs/Urca-icone-esquerda.png",alt:""}),R.jsx("img",{className:"h-12",src:"/src/assets/footerimgs/CENTRO-ACADEMICO-SERGIO-JUNIOR.png",alt:""}),R.jsx("img",{className:"h-8",src:"/src/assets/purplevisual.svg",alt:""})]})}function O1(){return R.jsxs("div",{className:"w-full h-screen",children:[R.jsx(P1,{}),R.jsx(_1,{}),R.jsx(N1,{})]})}od(document.getElementById("root")).render(R.jsx(Ql.StrictMode,{children:R.jsx(O1,{})}));
